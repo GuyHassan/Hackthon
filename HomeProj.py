@@ -3,6 +3,7 @@ import requests
 import sys
 
 print('blabla')
+print("New Edit")
 def main():
     def getHelp():
         """ returns the help string """
