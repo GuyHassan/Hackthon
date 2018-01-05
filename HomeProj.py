@@ -2,7 +2,7 @@ from firebase import firebase
 import requests
 import sys
 
-
+print('blabla')
 def main():
     def getHelp():
         """ returns the help string """
